@@ -1,6 +1,6 @@
 package Ganesh;
 import java.util.*;
-public class SortStringArray {
+public class SortArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,4 +12,7 @@ public class SortStringArray {
 	      Arrays.sort(charArray);
 	      System.out.println(new String(charArray));
 	   }	
-}
+
+	}
+
+
